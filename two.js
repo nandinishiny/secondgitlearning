@@ -1,1 +1,1 @@
-console.log("hello my dear leader.")
+console.log("two")
