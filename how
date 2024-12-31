@@ -1,0 +1,16 @@
+[33mcommit 6bed71d83f11548bf4d130ead05bc01ff80d4255[m[33m ([m[1;32mthird-branch[m[33m)[m
+Author: nandinishiny <nandinishiny136@gmail.com>
+Date:   Tue Dec 31 10:47:15 2024 +0530
+
+    file2 in merge conflict
+
+[1mdiff --git a/one.js b/one.js[m
+[1mindex f334a41..f98a767 100644[m
+[1m--- a/one.js[m
+[1m+++ b/one.js[m
+[36m@@ -1,4 +1,4 @@[m
+ console.log("one.js")[m
+ //hello this one is awesome[m
+ //I am doing this change from first-branch[m
+[31m-[m
+[32m+[m[32m//I am the two.[m
